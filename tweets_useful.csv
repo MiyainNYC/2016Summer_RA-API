@@ -1,0 +1,229 @@
+created_at,text,links,@person
+2016-06-22,API support for 140 second video upload https://t.co/zS8cEXrIdX,https://t.co/zS8cEXrIdX,
+2016-06-07,"The recent oEmbed updates for timelines make adding them to your site even easier, details here 👇 https://t.co/rxHbAfTcb8",https://t.co/rxHbAfTcb8,
+2016-06-03,@twitterapi This change is now in effect. iOS Twitter Kit users should now be using v1.15.3 or newer. For questions: https://t.co/JPlzzfg9Yr,https://t.co/JPlzzfg9Yr,@twitterapi
+2016-05-31,"RT @AdsAPI: Twitter Ads SDK for Ruby v1.0.0, with #AdsAPIv1 support is now available! https://t.co/XUQjKa5s2B",https://t.co/XUQjKa5s2B,@AdsAPI
+2016-05-27,Announcing oEmbed support for embedded timelines https://t.co/7WPKgoBENs,https://t.co/7WPKgoBENs,
+2016-05-24,Information on the upcoming changes to Tweets is now on the developer site https://t.co/V8PTcAL9Cs,https://t.co/V8PTcAL9Cs,
+2016-05-20,The disruption to https://t.co/tLBVlxZilk logins is resolved. Sorry for the short issue!,https://t.co/tLBVlxZilk,
+2016-05-20,We are investigating a temporary issue affecting login for app management on https://t.co/tLBVlxZilk,https://t.co/tLBVlxZilk,
+2016-05-13,The Streaming API has been fully operational. We’ve fixed an issue that incorrectly reported its status this week. https://t.co/vSEnUALL8e,https://t.co/vSEnUALL8e,
+2016-05-03,"MP4 URLs in the Tweet payload will be retired on Aug 1. If used, switch over to HLS URLs at your convenience. More: https://t.co/v1nOOdkucr",https://t.co/v1nOOdkucr,
+2016-04-21,See this developer forum post for important updates if you currently implement a player card on your website. https://t.co/HG9laN1LWu,https://t.co/HG9laN1LWu,
+2016-04-11,"""RT @TwitterDev: Twitter Ads API Challenge: Build great advertising tools for a shot at $250,000 $API.tw https://t.co/Peexsv5TLE",https://t.co/Peexsv5TLE,@TwitterDev
+2016-04-08,"We've enhanced the documentation around our Media APIs, for upload and alt text support https://t.co/obNBSSS5H2",https://t.co/obNBSSS5H2,
+2016-04-06,"Improved image sizes coming soon to the API. Details here on the dev forums, https://t.co/ivGr2Y2Pbx and on the blog https://t.co/dduQ4dVwa7",https://t.co/ivGr2Y2Pbx,
+2016-03-29,Full documentation for the API around the new alt text feature is coming soon. https://t.co/zTij0XByHF,https://t.co/zTij0XByHF,
+2016-03-03,"RT @TwitterDev: Now live: a modern new embedded timeline with more flexibility, rich media, new cards &amp; more https://t.co/bPBUAKgyxI https:…",https://t.co/bPBUAKgyxI,@TwitterDev
+2016-03-03,"RT @AdsAPI: Announcing #AdsAPIv1, available March 15th. v0 will no longer be supported after June 15th https://t.co/vO9JLKDKeX",https://t.co/vO9JLKDKeX,@AdsAPI
+2016-02-25,Deprecation of XML response type for single Tweet oEmbed - details of changes required to affected code here -&gt; https://t.co/PJrqvzMEIJ,https://t.co/PJrqvzMEIJ,
+2016-02-25,"RT @AdsAPI: Later this quarter we’ll begin to version changes we make to the #AdsAPI for a better, more predictable DX https://t.co/VnyBdsV…",https://t.co/VnyBdsV…,@AdsAPI
+2016-02-23,"Update: our migration to 64-bit snowflake IDs is complete - saved searches, users and list IDs are now all 64-bit. https://t.co/brVAwDIQT5",https://t.co/brVAwDIQT5,
+2016-01-26,"As announced in 2013, we're completing retirement of our v1 APIs. See our post for timeline &amp; migration information: https://t.co/aNbMsNNkoY",https://t.co/aNbMsNNkoY,
+2016-01-20,RT @TwitterDev: Announcing our #HelloWorld Tour -- Join us! https://t.co/m8ZjGu7Kpg https://t.co/ondOESIH1O,https://t.co/m8ZjGu7Kpg,@TwitterDev
+2015-11-24,Additional 64-bit entity ID migration coming in Feb 2016 https://t.co/eQIGvw1rsJ,https://t.co/eQIGvw1rsJ,
+2015-10-13,RT @AdsAPI: Twitter is experiencing issues in  chunked media uploads through the API. https://t.co/4wOEgWr8Zb,https://t.co/4wOEgWr8Zb,@AdsAPI
+2015-10-09,How the USGS uses Twitter data to track earthquakes https://t.co/qSiD5MgIST,https://t.co/qSiD5MgIST,
+2015-09-21,"Announcement: moving http://t.co/EdkFYYfddt to HTTPS only for new links, from October 1 https://t.co/dkgaQ23Klw",https://t.co/dkgaQ23Klw,
+2015-09-15,"RT @AdsAPI: Release: Twitter Ads API SDK for Ruby v0.2.1 has been released, you can read more about it here: https://t.co/5B3kw7AKQu",https://t.co/5B3kw7AKQu,@AdsAPI
+2015-08-13,The temporary widget rendering issue should be resolved https://t.co/233DhE6lOm,https://t.co/233DhE6lOm,
+2015-07-22,RT @TwitterDev: Our developer conference is back! Join us at Twitter @Flight on October 21 in San Francisco: https://t.co/wEiNu8lAt9 http:/…,https://t.co/wEiNu8lAt9,@TwitterDev@Flight
+2015-07-15,Update to plans to roll out longer DMs - including how to test in your apps https://t.co/MCq1s51ZaF,https://t.co/MCq1s51ZaF,
+2015-06-15,Removing the 140 character limit from Direct Messages https://t.co/h0I2M3P2vm,https://t.co/h0I2M3P2vm,
+2015-05-28,Quoted status objects and the API https://t.co/PpjnlQEk5F,https://t.co/PpjnlQEk5F,
+2015-05-28,RT @TwitterDev: Excited for #io15? We're celebrating by open sourcing Twitter Kit and Digits for #Android! https://t.co/WgN3nwk0F9 http://t…,https://t.co/WgN3nwk0F9,@TwitterDev
+2015-05-21,RT @TwitterDev: We are excited to announce that the REST API now supports native video upload. https://t.co/cWUrgjh8wz http://t.co/yaenTQE9…,https://t.co/cWUrgjh8wz,@TwitterDev
+2015-04-21,API updates for Direct Message options https://t.co/RXjGMkCbbi,https://t.co/RXjGMkCbbi,
+2015-02-02,Potential adjustment to public Streaming API volumes https://t.co/kQhoIWGoyZ - always intended to be 1% of current Tweet levels.,https://t.co/kQhoIWGoyZ,
+2015-01-28,We're aware of reports that media entities are limited in the Streaming API at the moment and are investigating. https://t.co/rZMFMANtLD,https://t.co/rZMFMANtLD,
+2015-01-27,Native video support in REST and Streaming API https://t.co/VrFm1qGZnF,https://t.co/VrFm1qGZnF,
+2015-01-21,Adding a new social event to the Streaming API - retweet has been retweeted https://t.co/qmIF7W9Iyl,https://t.co/qmIF7W9Iyl,
+2015-01-07,Announcing the addition of animated GIFs to JSON payloads for REST and Streaming APIs https://t.co/O9eWzMPay7,https://t.co/O9eWzMPay7,
+2015-01-07,RT @TwitterDev: Jumpstart your Twitter integration by checking out @twitterdev on Github https://t.co/quFH80JSdu http://t.co/qiZraIhIOx,https://t.co/quFH80JSdu,@TwitterDev@twitterdev
+2014-12-04,Deprecation of the account/update_profile_colors endpoint https://t.co/Fk6AlAHKXw,https://t.co/Fk6AlAHKXw,
+2014-12-04,Announcing some upcoming changes to the Lists API https://t.co/H3HHbnk8NX,https://t.co/H3HHbnk8NX,
+2014-10-22,We've published updated Developer Policy and Agreement documents today - announcement on our forums https://t.co/TS3nKGCrea,https://t.co/TS3nKGCrea,
+2014-10-22,Announcing @fabric: The easiest way to make the best apps https://t.co/TmEGvIskQ1,https://t.co/TmEGvIskQ1,@fabric
+2014-09-25,The OAuth / xAuth issue affecting REST endpoints has been resolved. Please visit our OAuth forums for support https://t.co/XiKCrlfCNX,https://t.co/XiKCrlfCNX,
+2014-07-16,"RT @TwitterDev: Now available, Answers by Crashlytics. Gain insight into your app’s usage. Learn more and get started. https://t.co/t35pKS1…",https://t.co/t35pKS1…,@TwitterDev
+2014-06-23,Goal! Detecting the most important World Cup moments https://t.co/D6SEk3EwYR,https://t.co/D6SEk3EwYR,
+2014-05-29,"Now available, Beta by Crashlytics.  Invite and manage testers for your apps. https://t.co/qcmMuq8XrZ",https://t.co/qcmMuq8XrZ,
+2014-05-22,On May 28th PDT (UTC-7) we will launch support for composing tweets with multiple images via the REST API. Details: https://t.co/XB1rnLfFmo,https://t.co/XB1rnLfFmo,
+2014-05-21,RT @TwitterDev: Developer Spotlight: Botanicalls via @jbulava  https://t.co/EtJEF3XFOt,https://t.co/EtJEF3XFOt,@TwitterDev@jbulava
+2014-05-16,Forthcoming tweak to streaming API error codes from June https://t.co/HbQsmbkLmQ,https://t.co/HbQsmbkLmQ,
+2014-05-13,Twitter Developer Events: May 2014 https://t.co/Y8RUKLcWt1,https://t.co/Y8RUKLcWt1,
+2014-05-12,Now you can mute users on Twitter https://t.co/zGBgt5LOJd - here are the new API endpoints https://t.co/wC2AXYBuRI,https://t.co/zGBgt5LOJd,
+2014-05-08,RT @TwitterDev: Issue fixed: tokens not updating on http://t.co/tBJddtCUwN now resolved.  https://t.co/gRCkuEhmDu updated with status (clos…,https://t.co/gRCkuEhmDu,@TwitterDev
+2014-05-08,Current known issue: tokens not updating on https://t.co/a1dP2K07jK. We are actively working on a fix. https://t.co/xo6ys3L7Xu for updates.,https://t.co/a1dP2K07jK.,
+2014-05-07,Bootstrapping Sign in with Twitter https://t.co/4i7QRWpe5L,https://t.co/4i7QRWpe5L,
+2014-05-06,"Delivering great video and audio on Twitter, made simple https://t.co/7tXX5q3wPQ",https://t.co/7tXX5q3wPQ,
+2014-05-01,Learn how to monetize your mobile apps using MoPub native ads. https://t.co/VLSGPYq6UP,https://t.co/VLSGPYq6UP,
+2014-04-24,RT @TwitterDev: New REST API endpoint for bulk lookup of Tweets by ID -  https://t.co/NsOjHvCgbL.,https://t.co/NsOjHvCgbL.,@TwitterDev
+2014-04-15,"We have agreed to acquire @gnip, welcome to the flock! https://t.co/fXrE36fjPZ",https://t.co/fXrE36fjPZ,@gnip
+2014-04-07,"X-Connection-Hash to replace X-Transaction header for debugging streaming API issues, starting April 14. Read more: https://t.co/aiWEKiuXmn",https://t.co/aiWEKiuXmn,
+2014-04-07,User &amp; Site Streams bug fix when user @-mentioned by protected account rolling out April 8-9. Read more: https://t.co/tt9aAT4IEC,https://t.co/tt9aAT4IEC,
+2014-04-03,Twitter Developer Events: April 2014 https://t.co/FEozay7PTN,https://t.co/FEozay7PTN,
+2014-04-03,Expect rollout of backend changes to streaming endpoints to take several more days. Read more: https://t.co/2JSqxMfYFI,https://t.co/2JSqxMfYFI,
+2014-03-31,"Reminder: Backend changes to streaming endpoints begin rolling out tomorrow, April 1. Read more: https://t.co/2JSqxMfYFI",https://t.co/2JSqxMfYFI,
+2014-03-27,RT @TwitterDev: Streaming API will be ""replaying"" some Tweets starting at 1PM (Pacific) today. https://t.co/YkpeBC8ixZ,https://t.co/YkpeBC8ixZ,@TwitterDev
+2014-03-27,"User &amp; Site Streams getting some updates and fixes, rolled out in two phases, April 8-9 and April 29-30. Read more: https://t.co/HVmA0ynHRD",https://t.co/HVmA0ynHRD,
+2014-03-19,April 1-2: some streaming endpoints getting backend upgrades that will potentially affect bandwidth. Read more: https://t.co/2JSqxMfYFI,https://t.co/2JSqxMfYFI,
+2014-03-19,"RT @TwitterOSS: hosebird client (hbc) v2.0 released by @kevino and team, check out the new release notes https://t.co/l0jkFgvLMZ",https://t.co/l0jkFgvLMZ,@TwitterOSS@kevino
+2014-03-11,"Broadcasting the voices of WordPress users, one Tweet at a time https://t.co/XCkAskpXVB",https://t.co/XCkAskpXVB,
+2014-02-06,Twitter Data Grants: A pilot program to give researchers access to public and historical data. Learn more https://t.co/KeI2YtGAdi,https://t.co/KeI2YtGAdi,
+2014-02-04,How eBay uses Cards and Twitter Card analytics: https://t.co/b7cxO0RrMp,https://t.co/b7cxO0RrMp,
+2014-01-23,Introducing analytics for Twitter Cards: https://t.co/2EUxRISD2a,https://t.co/2EUxRISD2a,
+2014-01-13,"Tomorrow (Jan 14, 2014) all requests to http://t.co/JJ1WIaJkjK will be restricted to SSL only. Read more: https://t.co/5bffaNC1i5",https://t.co/5bffaNC1i5,
+2014-01-10,"Important: On Jan 14, 2014 all requests to http://t.co/JJ1WIaJkjK will require SSL &amp; disallow plaintext connections https://t.co/5bffaNC1i5",https://t.co/5bffaNC1i5,
+2014-01-06,"Update: We are removing HTTP 1.0 support for the remaining Streaming API endpoints on Mon., Jan. 13. More details: https://t.co/JfieFem8Kf",https://t.co/JfieFem8Kf,
+2014-01-06,"Note: A ""blackout test"" will be performed tmw btw 11am-1pm PST, and HTTP plaintext connections will be unavailable. https://t.co/5bffaNC1i5",https://t.co/5bffaNC1i5,
+2014-01-06,Reminder: We are deploying a fix to Tweet Entities for Retweets today. Read more about the change: https://t.co/GMIk4lnXjs,https://t.co/GMIk4lnXjs,
+2013-12-17,"If a user has granted your app direct message read access, OAuth can be used to display any uploaded media: https://t.co/BIjdJ8J637",https://t.co/BIjdJ8J637,
+2013-12-16,"Important: On Jan 14, 2014 all requests to http://t.co/JJ1WIaJkjK will require SSL &amp; disallow plaintext connections. https://t.co/5bffaNC1i5",https://t.co/5bffaNC1i5,
+2013-12-10,We upgraded the SSL certificate on http://t.co/JJ1WIaJkjK today as planned. More info on this G3 certificate here: https://t.co/V4K1qHVZe9,https://t.co/V4K1qHVZe9,
+2013-12-10,Unicode spaces (not only ASCII spaces) are now word separators while tracking keywords with statuses/filter. Try it: https://t.co/hUMpNCWmyi,https://t.co/hUMpNCWmyi,
+2013-12-02,"We'll be testing a new SSL certificate on http://t.co/JJ1WIaJkjK tomorrow (2013-12-03), from ~19:30 to ~21:00 UTC: https://t.co/QIs9anpNC3",https://t.co/QIs9anpNC3,
+2013-12-02,Hi developers! This is a reminder that we're retiring the POST geo/place API method today. Details: https://t.co/AM6JPnFzjz,https://t.co/AM6JPnFzjz,
+2013-11-25,Twitter List IDs will become 64-bit integers in early 2014 https://t.co/hGtdhrXLFe,https://t.co/hGtdhrXLFe,
+2013-11-19,"The Twitter REST API's SSL certificates will update on Dec 10th, 2013. More information: https://t.co/V4K1qHVZe9",https://t.co/V4K1qHVZe9,
+2013-11-12,"Introducing custom timelines, a new type of timeline that you control. https://t.co/r7Yf2ufCbn",https://t.co/r7Yf2ufCbn,
+2013-11-05,"Here are some tips on integrating Twitter Cards with popular content tools like @WordPress, @Blogger, and @tumblr: https://t.co/obIuXMUyIn",https://t.co/obIuXMUyIn,@WordPress@Blogger@tumblr
+2013-10-30,"We're rectifying a long-standing quirk with entities in retweet objects on Jan 6, 2014: https://t.co/GMIk4lnXjs",https://t.co/GMIk4lnXjs,
+2013-10-28,"The v1.1 REST API's POST geo/place method is being deprecated &amp; will retire on Dec 2nd, 2013. Read more: https://t.co/AM6JPnFzjz",https://t.co/AM6JPnFzjz,
+2013-10-24,@ParkInnBelfast you should contact @support through https://t.co/efeRNOI8qk,https://t.co/efeRNOI8qk,@ParkInnBelfast@support
+2013-10-21,"Effective today, all new Twitter user IDs will exceed the threshold for 32-bit integers. Read more: https://t.co/v9TtlwuWzb",https://t.co/v9TtlwuWzb,
+2013-10-07,Reminder: Twitter User IDs will become 64-bit integers soon. Make sure your software &amp; infrastructure are prepared. https://t.co/r5MTaLVAWA,https://t.co/r5MTaLVAWA,
+2013-09-26,"Today, Twitter is updating embedded Tweets to enable a richer photo experience: https://t.co/XdXRudPXH5",https://t.co/XdXRudPXH5,
+2013-09-24,"For DMs in User and Site Streams, we're phasing out perspectival attributes. Read more: https://t.co/Tq3eMHP86c",https://t.co/Tq3eMHP86c,
+2013-08-30,"Our platform relations team is growing! Please welcome @rchoi, @logicalarthur, and @lfcipriani. We're still hiring: https://t.co/G5KWYx42Y4",https://t.co/G5KWYx42Y4,@rchoi@logicalarthur@lfcipriani
+2013-08-28,"Announcing two accounts with user IDs &gt; 32 bits, for testing https://t.co/r5MTaLVAWA",https://t.co/r5MTaLVAWA,
+2013-08-27,String representations for lists of user IDs in connection preambles are now available in User and Site Steams APIs https://t.co/GMtL8dEGNr,https://t.co/GMtL8dEGNr,
+2013-08-19,Introducing Twitter Headlines for Embedded Tweets: https://t.co/pGWYU9Qrty,https://t.co/pGWYU9Qrty,
+2013-07-08,We have updated our Player Cards guidelines. Quick overview and discussion in our developer forums: https://t.co/wt5oLZROQ6.,https://t.co/wt5oLZROQ6.,
+2013-07-03,"Updated Rules of the Road &amp; Display Requirements: more clarity, based on your feedback. Read more in our dev forum: https://t.co/zhQERtpMmT",https://t.co/zhQERtpMmT,
+2013-06-11,Thanks everyone! API v1 Retirement is complete. Please use API v1.1 instead. https://t.co/SIzTAymJPW,https://t.co/SIzTAymJPW,
+2013-06-11,"The retirement of API v1 continues. Most inbound requests should now see HTTP 410, including to the old Search API. https://t.co/WyWlFwutwb",https://t.co/WyWlFwutwb,
+2013-06-11,"If you were using a legacy widget that no longer functions after API v1 retirement, we suggest using https://t.co/QOpRs58lAk instead.",https://t.co/QOpRs58lAk,
+2013-06-11,Looking for a library that supports API v1.1? Check out https://t.co/mTbGZ5wlPb,https://t.co/mTbGZ5wlPb,
+2013-06-11,We will begin 410ing inbound API v1 traffic now. We will gradually ramp up over the next several minutes. More info: https://t.co/WyWlFwutwb,https://t.co/WyWlFwutwb,
+2013-06-11,"API v1 Retirement will happen today, beginning sometime after 1:30PM PDT. We'll tweet as we ramp up. What to expect: https://t.co/WyWlFwutwb",https://t.co/WyWlFwutwb,
+2013-06-11,"Embedded Timelines now allow for dynamic, client-side selection of users and lists. Details from @benward: https://t.co/Aqd9bPPKTt",https://t.co/Aqd9bPPKTt,@benward
+2013-05-30,The Twitter Certified Products Program expands to include 11 additional products https://t.co/gAkA9XhAda,https://t.co/gAkA9XhAda,
+2013-05-22,"API v1 blackout testing is just about complete. API v1 will retire permanently on June 11, 2013. Upgrade to 1.1: https://t.co/zQjaRCjQWO",https://t.co/zQjaRCjQWO,
+2013-05-22,API v1 blackout testing is currently underway. See https://t.co/D7EBX18HIG for details.,https://t.co/D7EBX18HIG,
+2013-05-22,We'll begin API v1 blackout testing shortly. See https://t.co/D7EBX18HIG to know what to expect. We'll tweet as it begins.,https://t.co/D7EBX18HIG,
+2013-05-17,"We'll be performing additional API v1 Blackout Testing on May 22, 2013 at 20:00 UTC. https://t.co/f1GP88yGnZ",https://t.co/f1GP88yGnZ,
+2013-05-13,We have deprecated HTTP 1.0 support for the Streaming API: https://t.co/JfieFem8Kf,https://t.co/JfieFem8Kf,
+2013-05-03,"We're extending API v1 Retirement until June 11, 2013. https://t.co/Nb7PJrnZvx",https://t.co/Nb7PJrnZvx,
+2013-05-02,"New configuration options for Embedded Timelines: disable scrollbars, limit # of tweets, more control over loading: https://t.co/R15FIitZoI",https://t.co/R15FIitZoI,
+2013-04-23,A @twitterapi Recap of the First Quarter of 2013 https://t.co/tUO3efCB1O,https://t.co/tUO3efCB1O,@twitterapi
+2013-04-16,We're wrapping blackout testing for today. Requests to API v1 will resume full fidelity soon. Detail: https://t.co/4h1nOIJYJ4,https://t.co/4h1nOIJYJ4,
+2013-04-16,Blackout Testing has begun. A gradually increasing number of API v1 calls will be responded to with HTTP 410 Gone. https://t.co/4h1nOIJYJ4,https://t.co/4h1nOIJYJ4,
+2013-04-16,API v1 blackout testing will gradually begin in ten minutes or so. More information: https://t.co/4h1nOIJYJ4,https://t.co/4h1nOIJYJ4,
+2013-04-16,"Reminder: API v1 Blackout Testing continues on Tuesday, April 16 2013 beginning at 23:00 UTC (4:00pm PDT)  https://t.co/4h1nOIJYJ4",https://t.co/4h1nOIJYJ4,
+2013-04-12,Announcing new symbols entities for Tweets: https://t.co/RJDIKmj7zw,https://t.co/RJDIKmj7zw,
+2013-04-05,Requirements for OAuth 1.0A spec compliance tightened. Always use explicit callbacks &amp; verifiers. Discussion: https://t.co/W8OpCeUgrH,https://t.co/W8OpCeUgrH,
+2013-04-03,Deep linking in mobile applications and new kinds of Twitter Cards https://t.co/NodgYxqElO ^TS,https://t.co/NodgYxqElO,
+2013-03-29,"API v1's retirement will occur on May 7th, 2013. Additional blackout testing on April 16. More details: https://t.co/4h1nOIJYJ4 ^TS",https://t.co/4h1nOIJYJ4,
+2013-03-29,Announcing a new lists/ownerships method in 1.1: https://t.co/WSNP67jR2e ^ARK,https://t.co/WSNP67jR2e,
+2013-03-26,"The lang attr is now on Streaming &amp; REST as announced in https://t.co/zdgxk4kTx9 Also, the language filter is enabled for Streaming ^ARK",https://t.co/zdgxk4kTx9,
+2013-03-26,"Embedded Timelines update: Simplified configuration, better dev environment support, &amp; more customization options https://t.co/4dYIxcXcbP",https://t.co/4dYIxcXcbP,
+2013-03-25,"Please join us at Twitter HQ on 4/2 for a special platform event, where we'll be discussing new features: https://t.co/IKC4pMuMxa  ^JC",https://t.co/IKC4pMuMxa,
+2013-03-20,The blackout test will begin in around 5 minutes. API v1 requests will begin receiving HTTP 410 Gone. https://t.co/niJLXKjKYX ^TS,https://t.co/niJLXKjKYX,
+2013-03-20,Blackout test today on the retiring REST API v1 from 3PM to 4PM PST. Expect many tweets about it throughout. https://t.co/niJLXKjKYX ^TS,https://t.co/niJLXKjKYX,
+2013-03-18,"Reminder: API v1 Blackout Testing on Wed, March 20th at 10PM-11PM UTC (3PM-4PM PST, 7AM-8AM JST). More info: https://t.co/niJLXKjKYX ^TS",https://t.co/niJLXKjKYX,
+2013-03-15,Improved customization options for Embedded Timelines https://t.co/GQav6da3WC,https://t.co/GQav6da3WC,
+2013-03-15,A pair of small technical changes to Site and User Streams: https://t.co/YQKnbdWfXc ^ARK,https://t.co/YQKnbdWfXc,
+2013-03-13,"API v1 Retirement Update: OEmbed, Streaming API, and a blackout test on March 20, 2013 https://t.co/niJLXKjKYX ^TS",https://t.co/niJLXKjKYX,
+2013-03-11,Introducing application-only authentication for the Twitter REST API v1.1 https://t.co/BrLLpVyuCe ^TS,https://t.co/BrLLpVyuCe,
+2013-03-05,"As announced, @anywhere has been retired per https://t.co/bWXjhurvwp The js file now logs a message to the console and exits quietly. ^ARK",https://t.co/bWXjhurvwp,@anywhere
+2013-03-05,"Thanks for hanging in there everyone! For more information about the API v1 Retirement Plan, see https://t.co/iE4QLDSm6n ^TS",https://t.co/iE4QLDSm6n,
+2013-03-05,Notice unauthenticated requests or old widgets not working right now? We're performing blackout tests on API v1.1. https://t.co/iE4QLDSm6n,https://t.co/iE4QLDSm6n,
+2013-03-05,The blackout test on unauthenticated calls is beginning now. It will take a few minutes to be totally in effect. https://t.co/iE4QLDSm6n ^TS,https://t.co/iE4QLDSm6n,
+2013-03-05,"Today at ~9am PST, the first API v1 blackout test on unauthenticated traffic, legacy widgets, RSS &amp; ATOM begins https://t.co/iE4QLDSm6n ^TS",https://t.co/iE4QLDSm6n,
+2013-03-01,Changes to the 'Sign in with Twitter' flow https://t.co/JVS2WNDOuQ ^TS,https://t.co/JVS2WNDOuQ,
+2013-02-28,We've just open-sourced a Java client library for accessing the Streaming APIs: https://t.co/lyzpBdvAKu ^ARK,https://t.co/lyzpBdvAKu,
+2013-02-21,Streaming API consumers should now notice the ""filter_level"" attribute we announced last week. https://t.co/zdgxk4kTx9 ^TS,https://t.co/zdgxk4kTx9,
+2013-02-21,You'll find that /1.1/lists/statuses is now rate limited at 180 requests per 15 minutes per user. https://t.co/GuWmh5dsA8 ^TS,https://t.co/GuWmh5dsA8,
+2013-02-20,A friendly reminder that this t.co length change is fully going into effect today: https://t.co/nqvYxZAk  ^JC,https://t.co/nqvYxZAk,
+2013-02-14,RT @rsarver: Excited to open our first two international roles for the @twitterapi team - UK and Brazil https://t.co/m0jsG9S9 https://t. ...,https://t.co/m0jsG9S9,@rsarver@twitterapi
+2013-02-13,Introducing new metadata for Tweets https://t.co/gOys7wgr ^ARK,https://t.co/gOys7wgr,
+2013-02-06,"A friendly reminder that this t.co length change will start today, and be in full effect by 2/20 https://t.co/nqvYxZAk   ^JC",https://t.co/nqvYxZAk,
+2013-02-05,Key information on the upcoming retirement of API v1: https://t.co/5uRb3oe7 ^TS,https://t.co/5uRb3oe7,
+2013-01-25,Looking for a replacement for v1's friendships/no_retweet_ids? v1.1 now has an equivalent: https://t.co/gILO7b0U ^TS,https://t.co/gILO7b0U,
+2013-01-22,We expect our user IDs to exceed the signed 32-bit boundary sometime this year.  Time to move to 64-bit: https://t.co/U3zYCnOR ^ARK,https://t.co/U3zYCnOR,
+2013-01-22,We've made some changes to Embedded Tweets - we hope you like them!  ^JC   https://t.co/Qrb7KFhX,https://t.co/Qrb7KFhX,
+2013-01-17,"@foetusite minutes after tweeting, a developer was kind enough to submit one: https://t.co/8qkLwLuW ^TS",https://t.co/8qkLwLuW,@foetusite
+2013-01-17,We're now collecting 1.1-compatible libraries &amp; tools here: https://t.co/h0otBwzl Have a submission or update? https://t.co/SxbGRs5V ^TS,https://t.co/h0otBwzl,
+2012-12-06,Important - t.co will soon be changing in length: https://t.co/nqvYxZAk   ^JC,https://t.co/nqvYxZAk,
+2012-12-05,""@urbandictionary grows daily followers 6.5x by implementing the Follow Button"" - https://t.co/oisy5Rlu   ^JC,https://t.co/oisy5Rlu,@urbandictionary
+2012-12-03,We now have a page which tracks upcoming and recent changes to the platform: https://t.co/3gMjdnBp ^ARK,https://t.co/3gMjdnBp,
+2012-12-03,We're extending the deprecation period for @Anywhere to align with API v1's retirement in March 2013. https://t.co/ybnvlErk ^TS,https://t.co/ybnvlErk,@Anywhere
+2012-11-29,Two new methods in API v1.1 provide simplified access to user friend &amp; follower data: https://t.co/vPja8oUs https://t.co/AKvLCan2 ^TS,https://t.co/vPja8oUs,
+2012-11-26,"Please use the new #TwitterCards thread for help with your implementation - Twitter Cards: I have a problem, help me! https://t.co/jvJPyE3I",https://t.co/jvJPyE3I,
+2012-11-09,"The ability to upload, remove, and retrieve profile banner images is now available for API v1.1. https://t.co/MtuaToSo ^TS",https://t.co/MtuaToSo,
+2012-11-08,The issue we reported earlier with Embeddable Timelines has been resolved. https://t.co/pDyHa1kX ^JC,https://t.co/pDyHa1kX,
+2012-11-08,"We're currently experiencing an issue with Embeddable Timelines, and are working to resolve this - https://t.co/pDyHa1kX  ^JC",https://t.co/pDyHa1kX,
+2012-11-02,Special permission is no longer required to utilize the Reverse Auth feature for iOS5+ applications: https://t.co/I4GcGxu7 ^TS,https://t.co/I4GcGxu7,
+2012-10-30,"Better late than never, statuses/retweets_of_me is joining the API v1.1 method roster: https://t.co/jYz3MJnb ^TS",https://t.co/jYz3MJnb,
+2012-10-25,"We're now serving entities in streamed favorite/unfavorite events, DMs to follow: https://t.co/5zns2ARr ^ARK",https://t.co/5zns2ARr,
+2012-10-25,We will update the expiring sitestreams SSL certificate as early as next week: https://t.co/CeF9McRY ^ARK,https://t.co/CeF9McRY,
+2012-10-24,We're making a change to withheld content fields in the API (correction: currently affects 1 account): https://t.co/IfoJHFEr … ^ARK,https://t.co/IfoJHFEr,
+2012-10-18,Twitter Office Hours for Newsrooms coming to New York https://t.co/lcWVXPBA ^TS,https://t.co/lcWVXPBA,
+2012-10-16,We plan to default cursoring on API v1.1's blocks/ids and blocks/list methods around 10:30 AM Pacific today https://t.co/igvDAx9C ^TS,https://t.co/igvDAx9C,
+2012-10-10,Trouble connecting? Verify your URLs are correct. Unversioned URLs such as http://t.co/ueX6aSrb are invalid. See https://t.co/JSEOjfe8 ^TS,https://t.co/JSEOjfe8,
+2012-10-09,The API housekeeping that we've previously discussed is starting today - including the sunset of public timeline: https://t.co/JSEOjfe8  ^JC,https://t.co/JSEOjfe8,
+2012-10-08,We'd like to change API v1.1's blocks/ids &amp; blocks/list to be cursored by default next week; read more: https://t.co/igvDAx9C ^TS,https://t.co/igvDAx9C,
+2012-10-02,Help users express themselves with programmatic upload &amp; retrieval of profile banners. https://t.co/Wfdscu9S ^TS,https://t.co/Wfdscu9S,
+2012-09-10,Following up on API housekeeping https://t.co/JSEOjfe8 ^ARK,https://t.co/JSEOjfe8,
+2012-09-06,Sunsetting @Anywhere - https://t.co/Y6vzr7Tn   ^JC,https://t.co/Y6vzr7Tn,@Anywhere
+2012-09-05,Current status: API v1.1 - https://t.co/M9xZk3tl   ^JC,https://t.co/M9xZk3tl,
+2012-09-05,We just launched embeddable Timelines for your website. Learn more here: https://t.co/rI9sEQJX,https://t.co/rI9sEQJX,
+2012-08-29,Introducing the Twitter Certified Products Program: https://t.co/MjJ8xAnT,https://t.co/MjJ8xAnT,
+2012-08-25,We are working to resolve issues with application management &amp; logging in to the dev portal: https://t.co/p5bOzH0k ^TS,https://t.co/p5bOzH0k,
+2012-08-24,@ManoDestra best to reach out to @support about site and account issues: https://t.co/Jj37AhE8 ^TS,https://t.co/Jj37AhE8,@ManoDestra@support
+2012-08-16,"As promised, we just posted more details on upcoming changes to the platform and a new version of the API, v1.1 https://t.co/W7DYaTDY",https://t.co/W7DYaTDY,
+2012-06-29,Delivering a consistent Twitter experience https://t.co/miBN7jhw,https://t.co/miBN7jhw,
+2012-06-26,@HooverFlags see https://t.co/9Lo6LHbe for more info on partnerships. ^TS,https://t.co/9Lo6LHbe,@HooverFlags
+2012-06-26,@therealjeffpark There's a retweet_count field in tweet objects. Use https://t.co/X4Qr4jQO to get an updated tweet object by tweet ID ^TS,https://t.co/X4Qr4jQO,@therealjeffpark
+2012-06-26,@haliiif we can't help with account issues but @support can: https://t.co/sqevYaWb ^TS,https://t.co/sqevYaWb,@haliiif@support
+2012-06-15,@BillPull make sure you use valid API URLs like https://t.co/7fVIWuT8 ^TS,https://t.co/7fVIWuT8,@BillPull
+2012-06-06,"Along with our new #Twitterbird, we've also updated our Display Guidelines: https://t.co/Ed4omjYs  ^JC",https://t.co/Ed4omjYs,
+2012-06-06,Attention Twitter developers - it's time to update to the new #Twitterbird if you're using a Twitter logo! https://t.co/HqGdZMNV  ^JC,https://t.co/HqGdZMNV,
+2012-05-17,We just updated section II.3.A of the Developer Rules of the Road: https://t.co/ehSA2uJY,https://t.co/ehSA2uJY,
+2012-05-17,"@meerantj there is a created_at field in user objects: https://t.co/AvKLlKm7 Once you collect the data set, sort by that. ^TS",https://t.co/AvKLlKm7,@meerantj
+2012-05-17,@tbrd correct; feature request here: https://t.co/snbhUPSf but can be mitigated through occasional delta checking of followers/ids ^TS,https://t.co/snbhUPSf,@tbrd
+2012-05-10,We're modifying the Spring 2012 deprecation schedule! Stay tuned next week for details on a more gradual rollout. https://t.co/8Ci77Ue2 ^TS,https://t.co/8Ci77Ue2,
+2012-05-09,Are you a developer in Nairobi? Manila? Buenos Aires? Singapore? Community Developer Teatimes are coming to you: https://t.co/5lS6rANY   ^JC,https://t.co/5lS6rANY,
+2012-05-07,Some apps are getting a 403 Forbidden when uploading images through statuses/update_with_media -- more info: https://t.co/OxDo0hI3 ^TS,https://t.co/OxDo0hI3,
+2012-05-07,"While revisiting your apps, you may find these useful: Working With Timelines https://t.co/v9jKuHPI  Field Guide: https://t.co/hyZxOS4G ^TS",https://t.co/v9jKuHPI,
+2012-05-07,"REMINDER: A number of crucial deprecations begin on May 14th, NEXT WEEK. Be prepared: https://t.co/33p3SPo6 ^TS",https://t.co/33p3SPo6,
+2012-05-03,"If you're exploring the @twitterapi, be sure and bring this new field guide along. https://t.co/5av8rKW4 ^TS",https://t.co/5av8rKW4,@twitterapi
+2012-04-30,Developer Teatime is coming to Paris - please sign up to join us on June 16th! https://t.co/pQOUNKGD  @rno @jasoncosta,https://t.co/pQOUNKGD,@rno@jasoncosta
+2012-04-27,"Today, we are launching eight cases studies highlighting the impact that Twitter can provide a website or mobile app https://t.co/xAEMKrWd",https://t.co/xAEMKrWd,
+2012-04-27,Important information on SSL certificate changes on Twitter API URLs https://t.co/7aMGWdoX ^TS,https://t.co/7aMGWdoX,
+2012-04-25,Our streaming endpoint DNS entries have changed. Make sure you pick up the new values! https://t.co/syXsNwdb ^ARK,https://t.co/syXsNwdb,
+2012-04-13,@JonnySchnittger Our ID integers are larger than some languages can handle: https://t.co/6PTqq8Ms ^TS,https://t.co/6PTqq8Ms,@JonnySchnittger
+2012-04-12,We are working to resolve an issue where devs cannot create new applications properly. Thanks for the reports! https://t.co/g20MTfQG ^TS,https://t.co/g20MTfQG,
+2012-04-12,Introducing new features to address Twitter Platform's common questions: https://t.co/7B34wVCj,https://t.co/7B34wVCj,
+2012-03-28,"We plan on rolling gzip support to User Streams on Monday. As a reminder, https://t.co/bqRLEJw5 has details ^ARK",https://t.co/bqRLEJw5,
+2012-03-06,"For clarity: API Housekeeping: cleaning up unversioned & outdated REST methods on May 14, **2012** https://t.co/8Ci77Ue2; Thanks! ^TS",https://t.co/8Ci77Ue2;,
+2012-03-06,"API Housekeeping: cleaning up unversioned & outdated REST methods on May 14, 2011. https://t.co/8Ci77Ue2 ^TS",https://t.co/8Ci77Ue2,
+2012-02-14,Compress ALL the streams! The Streaming API now supports gzip compression: https://t.co/N0vfZy4y ^ARK,https://t.co/N0vfZy4y,
+2012-02-08,"Community Developer Teatimes coming to Toronto, Dublin, and Amsterdam - https://t.co/NfgR9msG    ^JC",https://t.co/NfgR9msG,
+2012-02-06,Support for gzip compressed streams is coming to http://t.co/czyA8FiM this week: https://t.co/N0vfZy4y ^ARK,https://t.co/N0vfZy4y,
+2012-02-01,"Content-type appropriate error pages for 404, 500, and 503 API errors on the way: https://t.co/CnXOQdDE ^ARK",https://t.co/CnXOQdDE,
+2012-01-31,"As planned, we're beginning to uncap Tweet retweet_count values now. More info: https://t.co/LwFM5fLd ^TS",https://t.co/LwFM5fLd,
+2012-01-30,RT @gov: Developers and News Orgs: Stream the Feb. 4 Nevada Caucus results using the Twitter API. Here's how: https://t.co/2qYzl6l3 #nvc ...,https://t.co/2qYzl6l3,@gov
+2012-01-26,New Withheld Content Fields in API Responses https://t.co/ySdR2b6C ^TS,https://t.co/ySdR2b6C,
+2012-01-26,Here's a Chrome Extension @kurrik made that helps introduce the @twitterapi: https://t.co/OdEwAhQC ^TS,https://t.co/OdEwAhQC,@kurrik@twitterapi
+2012-01-20,"We are going to start offering gzip compression for Streaming APIs, starting with Site Streams next week https://t.co/AVZf1No0 ^ARK",https://t.co/AVZf1No0,
+2012-01-18,"We plan to uncap the retweet_count REST API field beginning Jan 31, 2012: https://t.co/LwFM5fLd ^TS",https://t.co/LwFM5fLd,
+2012-01-11,"RT @TwitterOSS: we're excited to open source Scalding today, a Scala API for Cascading (congrats @posco @argyris @avibryant) https://t.c ...",https://t.c,@TwitterOSS@posco@argyris@avibryant
+2012-01-10,Twitter’s new @handle distribution pilot program - https://t.co/7b0SRxEP   ^JC,https://t.co/7b0SRxEP,@handle
+2012-01-10,Another Developer Teatime event - this time we're heading to Berlin! https://t.co/L1WBO9zr   ^JC,https://t.co/L1WBO9zr,
+2012-01-09,Introducing more control over Site Streams with Control Streams https://t.co/UgeAGAHM ^TS,https://t.co/UgeAGAHM,
+2012-01-05,A fix is rolling out for the Streaming API disruption and normalcy should return soon. Follow https://t.co/8VcatWXE for updates. Thanks! ^TS,https://t.co/8VcatWXE,
+2011-12-21,"Missed any updates? https://t.co/LNpif8OL to review the most recently updated & created docs. Thanks again for the great year, devs! ^TS",https://t.co/LNpif8OL,
+2011-12-16,We're starting to wrap https-based links with https-based t.cos. See https://t.co/kuE4ngPu for more information. ^TS,https://t.co/kuE4ngPu,
+2010-04-01,"@1manfactory We're looking into it but haven't been able to reproduce. If you can, see what using https://api.twitter.com/oauth/* does ^TS",https://api.twitter.com/oauth/*,
