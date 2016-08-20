@@ -9,7 +9,7 @@ import json
 conn = sqlite3.connect("tweets.db")
 
 cur = conn.cursor()
-#cur.execute("create table tweets (created_at, tweet, location, retweet_count)")
+cur.execute("create table tweets (screen_name,created_at, text, location, retweet_count, in_reply_to_screen_name,followers_count,language)")
 
 
 #consumer key, consumer secret, access token, access secret.
@@ -23,14 +23,16 @@ class listener(StreamListener):
     def on_data(self, data):
         all_data = json.loads(data)
 
-        
-        tweet = all_data["text"]
+        text = all_data["text"]
         created_at = all_data['created_at']
         location = all_data["user"]["location"]
         retweet_count = all_data['retweet_count']
-        
-        cur.execute('''INSERT INTO tweets (created_at, tweet, location, retweet_count) values (?,?,?,?)''',(created_at, tweet, location, retweet_count))
-
+        screen_name = all_data["user"]["name"]
+        language = all_data['user']["lang"]
+        followers_count = all_data['user']["followers_count"]
+        in_reply_to_screen_name = all_data["in_reply_to_screen_name"]
+            
+        cur.execute('''INSERT INTO tweets (screen_name,created_at, text, location, retweet_count, in_reply_to_screen_name,followers_count,language) values (?,?,?,?,?,?,?,?)''',(screen_name,created_at, text, location, retweet_count, in_reply_to_screen_name,followers_count,language))
         conn.commit()
 
         print((created_at))
@@ -44,4 +46,4 @@ auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 
 twitterStream = Stream(auth, listener())
-twitterStream.filter(track=["delta"])
+twitterStream.filter(track=["amazon cloud"])
